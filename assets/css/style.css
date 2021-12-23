@@ -51,6 +51,7 @@ p {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
+  
 }
 
 .button_di-buffala:hover {
@@ -63,7 +64,9 @@ p {
 .navbar_di-buffala {
   background-color: #325DFF;
   color: hsla(0, 100%, 100%, 0.52);
+  
 }
+
 .icon-bar {
   background-color: #fff;
 }
@@ -379,7 +382,8 @@ p {
 
 .footer_di-buffala {
   background-color: #325DFF;
-  padding: 5vw 1rem;
+  padding:  2rem;
+  margin-top: 1rem;
   text-align: center;
 }
 
